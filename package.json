@@ -1,0 +1,20 @@
+{
+  "name": "version-service",
+  "version": "1.0.0",
+  "description": "REST service for checking version numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "version",
+    "check"
+  ],
+  "author": "Steffen Osterburg",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "node-json-config": "0.0.5"
+  }
+}
