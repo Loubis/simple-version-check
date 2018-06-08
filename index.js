@@ -6,7 +6,7 @@ const Config = require('node-json-config');
 let conf = new Config("./config.json");
 
 app.get('/', function (req, res) {
-  res.status(200)
+  res.send("BLUB").status(200)
 });
 
 app.get('/version', (req, res) => {
