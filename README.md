@@ -6,3 +6,6 @@ npm i
 ```
 
 set version in config.json => done
+
+# License
+MIT
