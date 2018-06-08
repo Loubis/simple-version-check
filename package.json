@@ -2,7 +2,7 @@
   "name": "version-service",
   "version": "1.0.0",
   "description": "REST service for checking version numbers",
-  "main": "index.js",
+  "main": "version.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
